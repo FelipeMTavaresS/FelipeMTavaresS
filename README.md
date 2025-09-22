@@ -10,8 +10,8 @@ Desenvolvedor Full Stack — foco em Web & Ferramentas Dev
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMTavaresS&show_icons=true&theme=tokyonight&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FelipeMTavaresS&layout=compact&card_width=320&langs_count=6&theme=tokyonight&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FelipeMTavaresS&layout=compact&card_width=640&langs_count=6&theme=tokyonight&locale=pt-br)
+
 
 ---
 
