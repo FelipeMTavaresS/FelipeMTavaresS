@@ -57,12 +57,5 @@ Abra uma issue ou PR nos repositórios públicos. Se quiser colaborar em algo es
 
 ---
 
-## Observações e personalização
-
-- Se `output/snake.svg` não aparecer no seu perfil, mova o arquivo para a raiz do repositório ou use um link absoluto para o raw no GitHub (ex.: `https://raw.githubusercontent.com/<usuario>/<repo>/branch/output/snake.svg`).
-- Para adicionar badges adicionais (CI, licença, LinkedIn), use shields.io.
-- Para tradução ou ajuste de tom (casual/profissional), me diga qual prefere e eu atualizo.
-
----
 
 Obrigado por visitar! 👋
