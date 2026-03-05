@@ -3,10 +3,9 @@
 Desenvolvedor Full Stack — foco em Web & Ferramentas Dev
 
 🔭 Atualmente: Suporte Técnico & projetos pessoais  
-🌱 Aprendendo: Desenvolvimento Web moderno (React, TypeScript)  
+🌱 Aprendendo: NestJS, API REST, TDD, arquitetura de software, banco de dados, validação de dados, organização de backend, escalabilidade de aplicações. 🚀
 💬 Posso ajudar em: JavaScript, Node.js, Docker  
 📫 Contato: <felipekislyy@gmail.com>  
-⚡ Curiosidade: mantenho projetos sobre jogos e ferramentas dev
 
 ---
 
