@@ -1,60 +1,73 @@
-# Felipe Tavares
+# ⚡ Felipe Tavares
 
-Desenvolvedor Full Stack — foco em Web & Ferramentas Dev
+<table>
+  <tr>
+    <td width="50%">
 
-🔭 Atualmente: Suporte Técnico & projetos pessoais  
-🌱 Aprendendo: NestJS, API REST, TDD, arquitetura de software, banco de dados, validação de dados, organização de backend, escalabilidade de aplicações. 🚀
-💬 Posso ajudar em: JavaScript, Node.js, Docker  
-📫 Contato: <felipekislyy@gmail.com>  
+<pre>
+<code>
+> whoami
+Backend Developer in progress...
 
----
+> current_status
+Transitioning from Tech Support → Software Development
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FelipeMTavaresS&layout=compact&card_width=640&langs_count=6&theme=tokyonight&locale=pt-br)
+> focus
+Building scalable backends, APIs and real-world projects
+</code>
+</pre>
 
-
----
-
-## Tecnologias e ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/banner.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Projetos em destaque
+## 🚀 About me
 
-- [Tetris-termina](https://github.com/FelipeMTavaresS/Tetris-termina) — continuação/implementação do Tetris em TypeScript. (Refatorei a lógica de colisão, melhorei performance do loop do jogo e adicionei testes unitários.)
-- [GitSearch](https://github.com/FelipeMTavaresS/GitSearch) — Implementação de um buscador de perfis do GitHub usando a própria API em TypeScript usando React Native.
-- [MagicStock](https://github.com/Liragbr/MagicStock) — Projeto da Faculdade com meus colegas, é uma implementação de sistema de estoque usando JavaScript com React.
-
----
-
-## Como colaborar
-
-Abra uma issue ou PR nos repositórios públicos. Se quiser colaborar em algo específico, me mande um email: <felipekislyy@gmail.com>
+- 🔭 Atualmente trabalhando com suporte técnico  
+- 💻 Migrando para desenvolvimento backend  
+- 🧠 Focado em escrever código limpo, testável e escalável  
+- ⚙️ Curto arquitetura bem estruturada e boas práticas  
 
 ---
 
+## 🧪 Current stack & studies
 
-Obrigado por visitar! 👋
+```ts
+const felipe = {
+  stack: ["Node.js", "TypeScript", "NestJS"],
+  testing: ["Jest", "TDD"],
+  database: ["PostgreSQL"],
+  tools: ["Docker", "Git"],
+  learning: [
+    "Clean Architecture",
+    "Scalability",
+    "System Design",
+    "API Design"
+  ]
+}
+```
+Stats
+
+🛠️ Tech
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,jest,docker,postgres,linux,vscode&theme=dark" /> </p>
+🧠 Philosophy
+"First make it work.
+Then make it right.
+Then make it fast."
+🤝 Contributing
+
+Curtiu algum projeto?
+
+Abre uma issue
+Manda um PR
+Ou só troca uma ideia comigo
+
+📫 Email: felipekislyy@gmail.com
+
+⚡ Fun fact
+I use Arch btw.
