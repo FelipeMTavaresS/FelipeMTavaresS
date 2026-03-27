@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=14&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=500&height=180&lines=%3E+whoami;Backend+Developer+in+progress...;%3E+current_status;Transitioning+from+Tech+Support+%E2%86%92+Software+Development;%3E+focus;Building+scalable+backends,+APIs+and+real-world+projects;%3E+Exit_" />
+<img src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=16&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=500&height=180&lines=%3E+whoami;Backend+Developer+in+progress...;%3E+current_status;Transitioning+from+Tech+Support+%E2%86%92+Software+Development;%3E+focus;Building+scalable+backends,+APIs+and+real-world+projects;%3E+Exit_" />
 
   </td>
     <td width="50%" align="center">
