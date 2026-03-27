@@ -4,7 +4,7 @@
 
 <span>
 <img 
-  src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=18&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=480&height=280&lines=%3E+whoami;Backend+Developer;%3E+status;Continuous+learning+in+Software+Engineering;%3E+focus;Building+scalable+backends+and+APIs;%3E+stack;Node.js+%7C+TypeScript+%7C+NestJS;%3E+Exit_"
+  src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=17&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=420&height=280&lines=%3E+whoami;Backend+Developer;%3E+status;Continuous+learning+in+Software+Engineering;%3E+focus;Building+scalable+backends+and+APIs;%3E+stack;Node.js+%7C+TypeScript+%7C+NestJS;%3E+Exit_"
 />
 </span>
 
