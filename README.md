@@ -1,13 +1,21 @@
 #  Felipe Tavares
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=17&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=600&height=220&lines=%3E+whoami;Backend+Developer+in+progress...;%3E+current_status;Transitioning+from+Tech+Support+%E2%86%92+Software+Development;%3E+focus;Building+scalable+backends,+APIs+and+real-world+projects;%3E+Exit_" style="max-width: 100%;" />
-</p>
+<p align="center">
 
-<p align="right">
-<img src="assets/banner.gif" style="max-width: 300px; height: auto;" />
+<span>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=18&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=480&height=280&lines=%3E+whoami;Backend+Developer;%3E+status;Continuous+learning+in+Software+Engineering;%3E+focus;Building+scalable+backends+and+APIs;%3E+stack;Node.js+%7C+TypeScript+%7C+NestJS;%3E+Exit_"
+/>
+</span>
+
+<span>
+<img 
+  src="assets/banner.gif" 
+  style="width: 380px; height: auto;" 
+/>
+</span>
+
 </p>
----
 
 ##  About me
 
