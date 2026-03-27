@@ -1,4 +1,4 @@
-# ⚡ Felipe Tavares
+#  Felipe Tavares
 
 <table>
   <tr>
@@ -14,10 +14,10 @@
 </table>
 ---
 
-## 🚀 About me
+##  About me
 
 - 🔭 Atualmente trabalhando com suporte técnico  
-- 💻 Migrando para desenvolvimento backend  
+- 💻 Migrando para desenvolvimento
 - 🧠 Focado em escrever código limpo, testável e escalável  
 - ⚙️ Curto arquitetura bem estruturada e boas práticas  
 
