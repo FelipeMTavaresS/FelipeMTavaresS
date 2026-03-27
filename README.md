@@ -2,28 +2,16 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
 
-<pre>
-<code>
-> whoami
-Backend Developer in progress...
+<img src="https://readme-typing-svg.herokuapp.com?color=95fffb&background=00000000&size=14&font=Courier&duration=3000&pause=800&vCenter=true&multiline=true&width=500&height=180&lines=%3E+whoami;Backend+Developer+in+progress...;%3E+current_status;Transitioning+from+Tech+Support+%E2%86%92+Software+Development;%3E+focus;Building+scalable+backends,+APIs+and+real-world+projects;%3E+Exit_" />
 
-> current_status
-Transitioning from Tech Support → Software Development
-
-> focus
-Building scalable backends, APIs and real-world projects
-</code>
-</pre>
-
-    </td>
+  </td>
     <td width="50%" align="center">
       <img src="assets/banner.gif" width="300"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 About me
